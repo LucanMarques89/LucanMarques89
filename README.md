@@ -7,6 +7,8 @@
 
 Ola seja bem-vindo ao meu perfil.
 
-Estou cursando o 1º semestre de logípistica na Fatec e vou compartilhar um puco do meu aprendizado por aqui.
+Curso o 1º semestre de logípistica na Fatec e vou compartilhar um puco do meu aprendizado por aqui.
 
+
+Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho quase nenhum conhecimento, mas ja sei que é esse caminho que devo percorrer.
 
