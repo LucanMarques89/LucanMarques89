@@ -1,0 +1,763 @@
+Concessionaria;Praca_de_pedagio;Ano_PNV_SNV;UF;Rodovia;Km_m;Tipo_de_Pista;Sentido;Municipio;Direcao;Latitude;Longitude;Data_da_Ativacao;Mes_ano;Receita_Praca_de_Pedagio
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;01/2020;1705692,5
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;01/2020;1459939
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;01/2020;208571
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;01/2020;991236,75
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;01/2020;3142899,5
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;01/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;01/2020;2277020
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;01/2020;2779410
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;01/2020;219122
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;01/2020;991236,75
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;01/2020;10639629,921598028
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;01/2020;7092520,60110321
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;01/2020;7206451,277299362
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;01/2020;797994,3279318643
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;01/2020;616428,6380721485
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;01/2020;23090095,383995984
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;01/2020;5355883,666001383
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;01/2020;1783453,9941334487
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;01/2020;5945842,82714261
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;01/2020;9002407,785469316
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;01/2020;2404743,017253241
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;01/2020;3011525,2425660915
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;01/2020;4808400,121594336
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;01/2020;2511446,4711093106
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;01/2020;2113306,220451907
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;01/2020;2120718,5442783553
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;01/2020;7316764,125575288
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;01/2020;7000041,174094642
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;01/2020;7790005,408501431
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;01/2020;7618550,125261841
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;01/2020;5119659,116566802
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;01/2020;6428727,447132896
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;01/2020;7351411,929848026
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;01/2020;6462401,188537521
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;01/2020;6840736,434629141
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;01/2020;6655706,569929353
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;01/2020;6169687,579923061
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;01/2020;0
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;01/2020;0
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;01/2020;0
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;01/2020;0
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;01/2020;0
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;01/2020;3096041,281509063
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;01/2020;3445939,385166196
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;01/2020;1831003,3832798977
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;01/2020;1592501,350044843
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;01/2020;2538414,8951352546
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;01/2020;3994458,542373284
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;01/2020;2975723,5624914607
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;01/2020;3925043,5646589394
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;01/2020;3557478,058087199
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;01/2020;3419199,8017856283
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;01/2020;2861025,51429891
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;01/2020;2807520,1913631787
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;01/2020;3174676,123437846
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;01/2020;6953908,599273824
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;01/2020;5014240,817094476
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;01/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;01/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;01/2020;4114718,0136393546
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;01/2020;3118454,5982406903
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;01/2020;2916680,472627833
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;01/2020;3081481,405811916
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;01/2020;2940236,4804882817
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;01/2020;6876080,299134036
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;01/2020;6458632,930057887
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;01/2020;1043099,6396775217
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;01/2020;1542029,716972619
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;01/2020;1930652,5980188858
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;01/2020;3124645,396390382
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;01/2020;3015106,489166309
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;01/2020;3068094,5472416673
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;01/2020;2224845,5925326147
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;01/2020;1487664,6918541498
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;01/2020;1334006,0510337737
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;01/2020;2053653,4791408004
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;01/2020;3806539,497243291
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;01/2020;4353505,959892516
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;01/2020;4159640,3008354697
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;01/2020;3712419,8275621333
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;01/2020;6590014,877979459
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;01/2020;3989361,0342865074
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;01/2020;3323604,6651983857
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;01/2020;2755393,512812003
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;01/2020;1743004,8426182086
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;01/2020;3133992,670370192
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;01/2020;2053579,868571367
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;01/2020;2072938,5058995055
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;01/2020;1366980,8859218839
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;01/2020;528541,0087803527
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;01/2020;1830751,7293130644
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;01/2020;3776059,5250811633
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;01/2020;3419676,646402082
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;01/2020;3008756,994565051
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;01/2020;6053379,205657682
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;01/2020;5295444,633466266
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;01/2020;6083294,695982096
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;01/2020;4516614,508431519
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;01/2020;4654700,121101079
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;01/2020;2376653,040215815
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;01/2020;2355954,7197540593
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;01/2020;2306449,5266829133
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;01/2020;2192433,354647817
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;01/2020;3333647,531971412
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;01/2020;3581325,739530728
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;01/2020;3010887,441138127
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;01/2020;2454289,944819568
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;01/2020;2599578,651239559
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;01/2020;10621190,29
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;01/2020;2284981,2361367703
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;01/2020;3399461,677997638
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;01/2020;3786372,2905378845
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;01/2020;1369592,3430461749
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;01/2020;1542962,1546950883
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;01/2020;1401386,5315085559
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;01/2020;1369817,7397116714
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;01/2020;1474014,6405824637
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;01/2020;1491704,3012357198
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;01/2020;7317028,086481837
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;01/2020;5720241,208066197
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;01/2020;0
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;01/2020;6590442,022623175
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;01/2020;15168930,777376823
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;01/2020;0
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;01/2020;0
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;01/2020;0
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;01/2020;0
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;02/2020;1516538,5
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;02/2020;1304195,5
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;02/2020;190110,5
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;02/2020;867123,75
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;02/2020;2869722
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;02/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;02/2020;1969060
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;02/2020;2513316
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;02/2020;228488,5
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;02/2020;867123,75
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;02/2020;9144372,066006007
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;02/2020;5888779,480118628
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;02/2020;5948028,453875366
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;02/2020;731218,649726536
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;02/2020;529455,5830390889
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;02/2020;20521811,267234378
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;02/2020;4908377,221447809
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;02/2020;1764881,0833868359
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;02/2020;5525694,816497495
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;02/2020;8466497,11189566
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;02/2020;2600702,326772199
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;02/2020;3049261,8130583274
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;02/2020;4857670,230238165
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;02/2020;2532943,1185701946
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;02/2020;2082455,5094794098
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;02/2020;2121380,658653903
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;02/2020;6173717,107014084
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;02/2020;5831641,665374062
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;02/2020;6605796,604820879
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;02/2020;6943150,710333802
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;02/2020;4716191,06245717
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;02/2020;5988169,435349306
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;02/2020;6752726,1544436
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;02/2020;5868472,353141948
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;02/2020;6379849,397335733
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;02/2020;6252304,935637798
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;02/2020;5750665,234091613
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;02/2020;0
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;02/2020;0
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;02/2020;0
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;02/2020;0
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;02/2020;0
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;02/2020;2976382,8491439517
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;02/2020;3299203,8770275754
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;02/2020;1872927,8592827248
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;02/2020;1513821,2145457487
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;02/2020;2396091,970224224
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;02/2020;3702617,1007110705
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;02/2020;2738241,429064706
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;02/2020;3502797,341125987
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;02/2020;3146732,6683956054
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;02/2020;3022055,1932687676
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;02/2020;2513965,639563984
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;02/2020;2491835,762811627
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;02/2020;2858336,7871208964
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;02/2020;6388493,174590695
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;02/2020;4530421,64312244
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;02/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;02/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;02/2020;3931082,462226175
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;02/2020;2969137,6499078465
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;02/2020;2780087,4039290496
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;02/2020;2920266,7298628846
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;02/2020;2762403,593168449
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;02/2020;6385740,575064895
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;02/2020;5899430,6958407005
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;02/2020;953063,0441295941
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;02/2020;1445522,5547428308
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;02/2020;1830304,3754469764
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;02/2020;2971103,7353628906
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;02/2020;2667886,998514646
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;02/2020;2675839,9748116285
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;02/2020;1946079,2769914335
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;02/2020;1389527,1696464743
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;02/2020;1271987,4424171352
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;02/2020;2014012,6475286405
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;02/2020;3972718,6644853903
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;02/2020;4646400,068394313
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;02/2020;3964355,8575280444
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;02/2020;3396302,975311292
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;02/2020;6172766,856658387
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;02/2020;3705246,0119497124
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;02/2020;3275525,015046887
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;02/2020;2958015,781312713
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;02/2020;1749016,9518811828
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;02/2020;2949332,177192979
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;02/2020;1856060,5481673402
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;02/2020;1875453,0275704581
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;02/2020;1335784,8683653602
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;02/2020;264131,936543686
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;02/2020;1712092,7751828206
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;02/2020;3370400,046511786
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;02/2020;3040866,3546961504
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;02/2020;2851893,2894775257
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;02/2020;6194920,036949958
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;02/2020;5399517,979491997
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;02/2020;6081067,336467404
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;02/2020;4601867,009244865
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;02/2020;4546791,3019774975
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;02/2020;2340342,70183601
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;02/2020;2282575,309561089
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;02/2020;2231344,005944205
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;02/2020;1918305,6728145666
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;02/2020;3012611,472923745
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;02/2020;3380126,023250749
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;02/2020;2856128,6546780556
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;02/2020;2244369,9217632036
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;02/2020;2406417,337228374
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;02/2020;9748576,89
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;02/2020;2185018,386133685
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;02/2020;3131966,176451889
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;02/2020;1659628,6668361977
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;02/2020;1278101,4971457361
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;02/2020;1492605,3210379544
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;02/2020;1394015,445359123
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;02/2020;1261211,6542938498
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;02/2020;1395445,0197040155
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;02/2020;1444600,3837168592
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;02/2020;7088280,749699443
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;02/2020;5561751,939621246
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;02/2020;5075963,813149563
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;02/2020;5356850,1114433855
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;02/2020;12154475,228467982
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;02/2020;4706044,612154539
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;02/2020;2830581,5105019715
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;02/2020;1770184,197434513
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;02/2020;836574,3268480424
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;03/2020;1439549,5
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;03/2020;1217459
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;03/2020;175253
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;03/2020;843888,25
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;03/2020;2755017
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;03/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;03/2020;1799539,5
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;03/2020;2433859,5
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;03/2020;212994
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;03/2020;843888,25
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;03/2020;7887305,24662491
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;03/2020;5314565,651566147
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;03/2020;5286511,301808942
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;03/2020;583352,3392090101
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;03/2020;429480,61128142226
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;03/2020;17813495,949509572
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;03/2020;5016054,7291868385
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;03/2020;2232995,8211274254
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;03/2020;5654484,295028648
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;03/2020;11073821,853094433
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;03/2020;4783313,831562658
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;03/2020;2986468,738578239
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;03/2020;4756857,611594549
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;03/2020;2512456,517391565
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;03/2020;2013274,2268164658
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;03/2020;2016442,9556191817
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;03/2020;5672864,199407756
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;03/2020;5337943,271911192
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;03/2020;5942429,384613134
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;03/2020;5883995,585746598
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;03/2020;3962629,41832132
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;03/2020;6006831,076736396
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;03/2020;6690091,6025207555
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;03/2020;5821782,827345131
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;03/2020;6376961,236116506
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;03/2020;6227313,305717087
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;03/2020;5745088,041564129
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;03/2020;0
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;03/2020;0
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;03/2020;0
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;03/2020;0
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;03/2020;0
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;03/2020;3048873,6971445954
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;03/2020;3275814,4950545584
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;03/2020;1929798,4512954436
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;03/2020;1515041,956505402
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;03/2020;2342626,1398801585
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;03/2020;3498984,2741437703
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;03/2020;2677319,5859760717
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;03/2020;3580255,5679190094
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;03/2020;3274361,5383764263
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;03/2020;3141898,1577832433
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;03/2020;2602018,1513239723
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;03/2020;2568074,558211879
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;03/2020;2922067,5271114153
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;03/2020;6038225,818220901
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;03/2020;4521392,491053152
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;03/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;03/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;03/2020;4364131,483970825
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;03/2020;3042369,94047125
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;03/2020;2861299,155729055
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;03/2020;2969427,11253323
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;03/2020;2841057,090163062
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;03/2020;6183724,34061202
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;03/2020;5746416,126520558
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;03/2020;862545,1818447101
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;03/2020;1280585,1184341724
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;03/2020;1711733,1042447172
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;03/2020;2788215,049533784
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;03/2020;2546056,249617793
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;03/2020;2524754,903618502
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;03/2020;1851149,8827063218
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;03/2020;1987232,137518359
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;03/2020;1810091,8960192117
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;03/2020;2988978,9123166474
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;03/2020;4896403,987061265
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;03/2020;6106058,928341903
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;03/2020;5289409,898742612
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;03/2020;3043455,645181103
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;03/2020;5681009,945830505
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;03/2020;3686272,1049273834
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;03/2020;3442261,253572318
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;03/2020;3152030,0974495
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;03/2020;1801061,8748786943
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;03/2020;2950330,023328448
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;03/2020;1971551,0752995645
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;03/2020;2000745,218658135
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;03/2020;1422497,9297932866
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;03/2020;576753,3310810621
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;03/2020;1636619,5273867894
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;03/2020;2712883,7470699265
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;03/2020;2652829,78159865
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;03/2020;2619286,18988672
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;03/2020;4994592,226687444
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;03/2020;4311259,703139861
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;03/2020;5080840,681341768
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;03/2020;3618981,9027271005
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;03/2020;3680028,9901617393
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;03/2020;2398078,2346584145
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;03/2020;2424072,0551824197
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;03/2020;2328994,2522211364
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;03/2020;1839105,6417877376
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;03/2020;2934741,222439396
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;03/2020;3432472,7959619346
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;03/2020;2920310,8294279077
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;03/2020;2184219,0852483767
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;03/2020;2283066,783072675
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;03/2020;8011634,44
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;03/2020;2057491,4231127144
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;03/2020;2782887,45975052
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;03/2020;3092431,5152799413
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;03/2020;1217396,613631489
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;03/2020;1461473,502542118
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;03/2020;1359418,0000317756
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;03/2020;1150068,349136031
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;03/2020;1292057,9218974004
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;03/2020;1338052,490362186
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;03/2020;6402423,2514328845
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;03/2020;5519387,982822941
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;03/2020;5327575,810021107
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;03/2020;3138628,4239929975
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;03/2020;8525908,18373273
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;03/2020;5834103,721241666
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;03/2020;3469501,2924836613
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;03/2020;2173019,6962323957
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;03/2020;1033794,1722954438
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;04/2020;954208
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;04/2020;839950,5
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;04/2020;126067,5
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;04/2020;578232,5
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;04/2020;1819577
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;04/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;04/2020;1133579
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;04/2020;1691678,5
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;04/2020;127759
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;04/2020;578232,5
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;04/2020;5262059,321745729
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;04/2020;3590919,4280241495
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;04/2020;3647448,8502301206
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;04/2020;329694,7079740885
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;04/2020;333437,1997444837
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;04/2020;10956102,842281427
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;04/2020;4415185,218271652
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;04/2020;2062621,0540658485
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;04/2020;4996684,841990882
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;04/2020;12527889,90273293
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;04/2020;5589691,702938691
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;04/2020;2460344,0568301133
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;04/2020;3901415,726605015
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;04/2020;2059936,151628557
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;04/2020;1653672,7846921936
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;04/2020;1655095,1102441216
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;04/2020;4071721,718749999
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;04/2020;3781014,370908214
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;04/2020;4402898,837853341
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;04/2020;4425172,483658994
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;04/2020;2838166,438829453
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;04/2020;4221168,93933685
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;04/2020;4808558,845933369
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;04/2020;4029813,7622682718
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;04/2020;4475273,692044396
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;04/2020;4363326,698587535
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;04/2020;3972584,7718295776
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;04/2020;2980658,5283591426
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;04/2020;1586908,7973783577
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;04/2020;2951726,1793496283
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;04/2020;2879321,683631288
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;04/2020;2486634,3612815836
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;04/2020;2655432,5946562765
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;04/2020;2669419,723708799
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;04/2020;1572233,6624388692
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;04/2020;1313459,219196056
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;04/2020;1612121,750092819
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;04/2020;2245380,333688949
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;04/2020;1755976,416218232
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;04/2020;2688533,38871424
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;04/2020;2443799,31909589
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;04/2020;2325060,0527594043
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;04/2020;1804397,256801666
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;04/2020;1811205,4337064766
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;04/2020;2126361,2064773394
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;04/2020;4471731,940839055
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;04/2020;3354333,711605928
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;04/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;04/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;04/2020;3294586,5025286237
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;04/2020;2015262,6857397554
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;04/2020;1878246,472476423
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;04/2020;1964388,6966629345
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;04/2020;1838866,8809475428
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;04/2020;4633009,044538016
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;04/2020;4401421,517106704
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;04/2020;671451,8552324201
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;04/2020;1103332,7611983777
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;04/2020;1460041,2302703685
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;04/2020;2301059,0580320903
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;04/2020;2036109,857009386
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;04/2020;1965652,1484328958
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;04/2020;1421980,1698244615
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;04/2020;1391234,4858794026
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;04/2020;1330293,2349717296
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;04/2020;2353709,830576725
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;04/2020;3280502,318494404
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;04/2020;4225029,369429348
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;04/2020;3458143,1006483906
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;04/2020;2383436,54162591
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;04/2020;4508949,634468863
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;04/2020;2984428,5886911447
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;04/2020;2882212,8673634287
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;04/2020;2766376,360446409
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;04/2020;1548342,1809928243
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;04/2020;2412294,635675715
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;04/2020;1601599,3849155947
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;04/2020;1651819,9641710992
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;04/2020;1153334,8834760177
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;04/2020;480111,8081729949
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;04/2020;1269918,0590900034
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;04/2020;3128161,0889650313
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;04/2020;2793259,074544855
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;04/2020;2591635,8067864836
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;04/2020;4979313,476344308
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;04/2020;4319391,418087013
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;04/2020;5072321,101773922
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;04/2020;3944055,773607644
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;04/2020;4139869,3508007396
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;04/2020;2043086,7266770548
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;04/2020;2124234,6385007584
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;04/2020;2054149,060613933
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;04/2020;1516767,0695660203
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;04/2020;2230458,7094359878
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;04/2020;2815456,118211612
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;04/2020;2264692,0593108484
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;04/2020;1576984,729702489
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;04/2020;1726000,487981294
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;04/2020;5307977,83
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;04/2020;1693999,8153863181
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;04/2020;2109582,240651769
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;04/2020;2298181,81472962
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;04/2020;1061785,3238912313
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;04/2020;1276391,7754415928
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;04/2020;1206815,6230678905
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;04/2020;1013255,4140883106
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;04/2020;1130454,722049866
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;04/2020;1229261,766882987
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;04/2020;5119552,857568951
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;04/2020;4484543,8662414625
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;04/2020;3748535,2644123184
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;04/2020;2349621,347328733
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;04/2020;5786093,194984107
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;04/2020;4716328,611803132
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;04/2020;2855133,5628254213
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;04/2020;1921672,277886132
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;04/2020;909149,8407601566
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;05/2020;1148945
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;05/2020;971624,5
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;05/2020;151576
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;05/2020;670287,5
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;05/2020;2164828
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;05/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;05/2020;1371000,5
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;05/2020;1945280
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;05/2020;151384
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;05/2020;670287,5
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;05/2020;6172740,547000331
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;05/2020;4359315,325039421
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;05/2020;4389093,727960249
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;05/2020;346543,08329219633
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;05/2020;390260,72963429353
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;05/2020;12355769,03707351
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;05/2020;4940698,734333049
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;05/2020;1621450,2133634456
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;05/2020;5450796,486749836
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;05/2020;12730624,149924628
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;05/2020;5691989,505629041
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;05/2020;2877931,4057135843
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;05/2020;4639312,833847094
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;05/2020;2393115,8927512723
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;05/2020;2000039,5870702434
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;05/2020;1955502,0306178054
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;05/2020;5031083,14318873
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;05/2020;4710939,160425478
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;05/2020;5464845,664841792
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;05/2020;5617631,4640175095
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;05/2020;3638252,2775264927
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;05/2020;5024520,809729407
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;05/2020;5653189,622201089
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;05/2020;4826466,092281013
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;05/2020;5321644,7669780245
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;05/2020;5207366,458972667
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;05/2020;4775847,0198378
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;05/2020;3536493,3273008456
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;05/2020;1869213,1513429268
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;05/2020;3432562,58799689
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;05/2020;3406088,213816303
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;05/2020;2910032,4695430347
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;05/2020;2954868,785411726
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;05/2020;3050575,057877072
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;05/2020;1759624,6605060024
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;05/2020;1505265,2962052003
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;05/2020;1910746,8791447168
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;05/2020;2777647,6672596857
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;05/2020;2154745,9535955973
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;05/2020;3104370,553982219
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;05/2020;2872450,459804619
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;05/2020;2720226,0825944683
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;05/2020;2178968,7442099126
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;05/2020;2179533,765443693
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;05/2020;2530341,9840384205
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;05/2020;5047292,436779026
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;05/2020;3874194,823147643
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;05/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;05/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;05/2020;3749371,612275505
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;05/2020;2513722,720420193
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;05/2020;2362326,9494248806
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;05/2020;2472923,66185681
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;05/2020;2341517,353531098
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;05/2020;5067932,067699318
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;05/2020;4794373,444792195
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;05/2020;799411,1253890421
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;05/2020;1232979,303051437
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;05/2020;1651555,3179912716
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;05/2020;2605970,901420532
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;05/2020;2321847,11922624
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;05/2020;2234309,4774190183
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;05/2020;1673658,0255024584
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;05/2020;1725556,6831212977
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;05/2020;1630673,9480936879
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;05/2020;2678319,4255267084
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;05/2020;3799505,801211372
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;05/2020;4612459,493675719
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;05/2020;4171310,3983712145
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;05/2020;3000347,306364486
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;05/2020;5504182,801095944
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;05/2020;3531176,0238972628
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;05/2020;3344393,3955436326
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;05/2020;3293744,338908861
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;05/2020;1768825,5835189645
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;05/2020;2821999,04795836
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;05/2020;1901658,4555310209
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;05/2020;1903017,9650414044
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;05/2020;1306941,809315425
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;05/2020;533540,9728246367
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;05/2020;1622287,381656823
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;05/2020;3873542,7996745524
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;05/2020;3493599,374766977
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;05/2020;3172968,1200594087
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;05/2020;5526775,453644743
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;05/2020;4920991,280757526
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;05/2020;5775412,950494616
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;05/2020;4336235,555465494
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;05/2020;4891969,633479855
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;05/2020;2156638,2016144996
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;05/2020;2432693,240265429
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;05/2020;2195805,970148018
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;05/2020;1764822,184099832
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;05/2020;2682260,9601687505
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;05/2020;3331490,108337398
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;05/2020;2750913,244672001
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;05/2020;2041344,9172623458
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;05/2020;2219770,373431728
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;05/2020;6078948,17
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;05/2020;2086596,0215296135
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;05/2020;2520661,6308597317
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;05/2020;2729456,1734913737
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;05/2020;1410462,0395496998
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;05/2020;1524588,8109983092
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;05/2020;1486537,716882258
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;05/2020;1216187,5165985154
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;05/2020;1487852,6574996593
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;05/2020;1585028,359779591
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;05/2020;6236479,68170942
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;05/2020;5299534,121101833
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;05/2020;4627351,149991151
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;05/2020;2826140,008240182
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;05/2020;7213149,420179908
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;05/2020;5315347,896869935
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;05/2020;3286590,9067250313
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;05/2020;2185378,068527222
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;05/2020;1043183,2494665731
+NOVADUTRA;Itatiaia;1998;Rio de Janeiro;BR-116/RJ;318,900;Principal;CrescenteDecrescente;Itatiaia;Sul/Norte;-22,494913;-44,569597;01/08/1996;06/2020;1293737,5
+NOVADUTRA;Viúva Graça;1998;Rio de Janeiro;BR-116/RJ;207,100;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,716155;-43,716697;01/08/1996;06/2020;1093151,5
+NOVADUTRA;Viuvinha;1998;Rio de Janeiro;BR-116/RJ;208,600;Principal;CrescenteDecrescente;Seropédica;Sul/Norte;-22,715133;-43,730239;01/12/2009;06/2020;180171,5
+NOVADUTRA;Guararema Sul;1998;São Paulo;BR-116/SP;180,800;Principal;Crescente;Guararema;Sul;-23,338823;-46,150096;01/08/1996;06/2020;759910
+NOVADUTRA;Jacareí;1998;São Paulo;BR-116/SP;165,200;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,296531;-46,007208;15/08/2001;06/2020;2461874
+NOVADUTRA;Jacareí Cab. Bloq.;1998;São Paulo;BR-116/SP;167,150;Principal;CrescenteDecrescente;Jacareí;Sul/Norte;-23,302445;-46,025038;15/08/2001;06/2020;0
+NOVADUTRA;Moreira César;1998;São Paulo;BR-116/SP;86,850;Principal;CrescenteDecrescente;Pindamonhangaba;Sul/Norte;-22,930143;-45,360888;01/08/1996;06/2020;1550742
+NOVADUTRA;Arujá;1998;São Paulo;BR-116/SP;204,700;Principal;CrescenteDecrescente;Arujá;Sul/Norte;-23,413055;-46,361079;08/10/1998;06/2020;2213117
+NOVADUTRA;Arujá Rodoanel;1998;São Paulo;BR-116/SP;205,050;Principal;Decrescente;Arujá;Norte;-23,415697;-46,365118;09/07/2015;06/2020;169097
+NOVADUTRA;Guararema Norte;1998;São Paulo;BR-116/SP;182,000;Principal;Decrescente;Santa Isabel;Norte;-23,346646;-46,164627;27/03/2011;06/2020;759910
+CONCER;P1;2016;Rio de Janeiro;BR-040/RJ;102,000;Principal;CrescenteDecrescente;Duque de Caxias;Norte/Sul;-22,609965;-43,285552;02/06/2020;06/2020;7308691,87792291
+CONCER;P2;2016;Rio de Janeiro;BR-040/RJ;45,500;Principal;CrescenteDecrescente;Areal;Norte/Sul;-22,284389;-43,120269;02/06/2020;06/2020;4791233,8603698565
+CONCER;P3;2016;Minas Gerais;BR-040/MG;816,700;Principal;CrescenteDecrescente;Simão Pereira;Norte/Sul;-21,928252;-43,316282;02/06/2020;06/2020;4902078,261707232
+CRT;PA1 Santo Aleixo;2017;Rio de Janeiro;BR-116/RJ;114,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,610815;-43,032112;09/12/1996;06/2020;434510,70356146723
+CRT;PA2 Santa Guilhermina;2017;Rio de Janeiro;BR-116/RJ;122,000;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,657363;-43,086196;09/12/1996;06/2020;495197,42384342727
+CRT;PN1 Eng. Pierre Berman;2017;Rio de Janeiro;BR-116/RJ;133,500;Principal;CrescenteDecrescente;Magé;Sul/Norte;-22,647307;-43,187968;02/09/1996;06/2020;14590475,272595108
+ECOSUL;Praça Cristal;1996;Rio Grande do Sul;BR-116/RS;430,800;Principal;CrescenteDecrescente;Cristal;Sul/Norte;-31,026386;-52,049430;20/04/2001;06/2020;4876831,024758704
+ECOSUL;Praça Pavão;1996;Rio Grande do Sul;BR-116/RS;541,200;Principal;CrescenteDecrescente;Capão do Leão;Sul/Norte;-31,820075;-52,526711;01/03/2002;06/2020;1585277,656435683
+ECOSUL;Praça Retiro;1996;Rio Grande do Sul;BR-116/RS;510,700;Principal;CrescenteDecrescente;Pelotas;Sul/Norte;-31,625261;-52,318116;04/03/2001;06/2020;5327672,756418811
+ECOSUL;Praça Capão Seco;1996;Rio Grande do Sul;BR-392/RS;52,300;Principal;CrescenteDecrescente;Rio Grande;Norte/Sul;-31,851958;-52,326177;04/03/2001;06/2020;11861000,302576926
+ECOSUL;Praça Glória;1996;Rio Grande do Sul;BR-392/RS;111,400;Principal;CrescenteDecrescente;Canguçu;Norte/Sul;-31,449786;-52,640644;01/03/2002;06/2020;5361316,679809875
+AUTOPISTA PLANALTO SUL;RIO NEGRO;2017;Paraná;BR-116/PR;204,100;Principal;CrescenteDecrescente;Rio Negro;Sul/Norte;-26,070580;-49,739911;04/02/2009;06/2020;2850592,02605822
+AUTOPISTA PLANALTO SUL;FAZENDA RIO GRANDE;2017;Paraná;BR-116/PR;134,400;Principal;CrescenteDecrescente;Fazenda Rio Grande;Sul/Norte;-25,713458;-49,318037;22/02/2009;06/2020;4603514,26056219
+AUTOPISTA PLANALTO SUL;MONTE CASTELO;2017;Santa Catarina;BR-116/SC;81,600;Principal;CrescenteDecrescente;Monte Castelo;Sul/Norte;-26,570363;-50,221795;04/02/2009;06/2020;2364272,8166062185
+AUTOPISTA PLANALTO SUL;SANTA CECÍLIA;2017;Santa Catarina;BR-116/SC;152,000;Principal;CrescenteDecrescente;Santa Cecília;Sul/Norte;-27,010584;-50,428716;18/01/2009;06/2020;2025244,0861467049
+AUTOPISTA PLANALTO SUL;CORREIA PINTO;2017;Santa Catarina;BR-116/SC;233,160;Principal;CrescenteDecrescente;Correia Pinto;Sul/Norte;-27,010584;-50,374335;18/02/2008;06/2020;1995208,380626668
+AUTOPISTA LITORAL SUL;P1;2009;Paraná;BR-376/PR;635,300;Principal;CrescenteDecrescente;São José dos Pinhais;Sul/Norte;-25,747708;-49,129655;22/02/2009;06/2020;5230308,757946652
+AUTOPISTA LITORAL SUL;P2;2009;Santa Catarina;BR-101/SC;1,350;Principal;CrescenteDecrescente;Garuva;Sul/Norte;-25,991898;-48,881469;22/02/2009;06/2020;4913206,878185169
+AUTOPISTA LITORAL SUL;P3;2009;Santa Catarina;BR-101/SC;79,300;Principal;CrescenteDecrescente;Araquari;Sul/Norte;-26,591635;-48,722079;04/06/2009;06/2020;5709106,759072928
+AUTOPISTA LITORAL SUL;P4;2009;Santa Catarina;BR-101/SC;157,400;Principal;CrescenteDecrescente;Porto Belo;Sul/Norte;-27,185065;-48,612362;12/05/2009;06/2020;5899589,133133948
+AUTOPISTA LITORAL SUL;P5;2009;Santa Catarina;BR-101/SC;242,800;Principal;CrescenteDecrescente;Palhoça;Sul/Norte;-27,885105;-48,647677;20/06/2009;06/2020;3852202,5216613035
+AUTOPISTA REGIS BITTENCOURT;Campina Grande do Sul;2017;Paraná;BR-116/PR;57,100;Principal;CrescenteDecrescente;Campina Grande do Sul;Sul/Norte;-25,289252;-48,933841;10/03/2009;06/2020;5305527,547060119
+AUTOPISTA REGIS BITTENCOURT;São Lourenço da Serra;2017;São Paulo;BR-116/SP;298,800;Principal;CrescenteDecrescente;São Lourenço da Serra;Sul/Norte;-23,787647;-46,913922;29/12/2008;06/2020;6103877,798198827
+AUTOPISTA REGIS BITTENCOURT;Miracatu;2017;São Paulo;BR-116/SP;370,400;Principal;CrescenteDecrescente;Miracatu;Sul/Norte;-24,157869;-47,326280;23/03/2009;06/2020;5222804,652860223
+AUTOPISTA REGIS BITTENCOURT;Juquiá;2017;São Paulo;BR-116/SP;426,600;Principal;CrescenteDecrescente;Juquiá;Sul/Norte;-24,389325;-47,722391;22/02/2009;06/2020;5696536,077910104
+AUTOPISTA REGIS BITTENCOURT;Cajati;2017;São Paulo;BR-116/SP;485,700;Principal;CrescenteDecrescente;Cajati;Sul/Norte;-24,722483;-48,082580;29/12/2008;06/2020;5560235,868326976
+AUTOPISTA REGIS BITTENCOURT;Barra do Turvo;2017;São Paulo;BR-116/SP;542,900;Principal;CrescenteDecrescente;Barra do Turvo;Sul/Norte;-24,964044;-48,412000;18/05/2009;06/2020;5084015,84564375
+AUTOPISTA FLUMINENSE;Casimiro de Abreu;2019;Rio de Janeiro;BR-101/RJ;192,820;Principal;CrescenteDecrescente;Casimiro de Abreu;Sul/Norte;-22,476441;-42,088519;25/05/2009;06/2020;4049962,375886343
+AUTOPISTA FLUMINENSE;Conselheiro Josino;2019;Rio de Janeiro;BR-101/RJ;40,500;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-21,552594;-41,331597;02/02/2009;06/2020;1991037,164268649
+AUTOPISTA FLUMINENSE;Rio Bonito;2019;Rio de Janeiro;BR-101/RJ;252,850;Principal;CrescenteDecrescente;Rio Bonito;Sul/Norte;-22,687469;-42,539855;25/05/2009;06/2020;3925301,5552259805
+AUTOPISTA FLUMINENSE;São Gonçalo;2019;Rio de Janeiro;BR-101/RJ;299,690;Principal;Crescente;São Gonçalo;Sul;-22,774713;-42,945500;10/02/2009;06/2020;4151005,1966823786
+AUTOPISTA FLUMINENSE;Serrinha;2019;Rio de Janeiro;BR-101/RJ;123,070;Principal;CrescenteDecrescente;Campos dos Goytacazes;Sul/Norte;-22,049750;-41,685157;09/02/2009;06/2020;3187957,0579366507
+TRANSBRASILIANA;P 01;2015;São Paulo;BR-153/SP;35,800;Principal;CrescenteDecrescente;Onda Verde;Sul/Norte;-20,588611;-49,318055;18/12/2008;06/2020;3052903,592381237
+TRANSBRASILIANA;P 02;2015;São Paulo;BR-153/SP;98,900;Principal;CrescenteDecrescente;José Bonifácio;Sul/Norte;-20,997500;-49,628333;18/12/2008;06/2020;3246269,834412559
+TRANSBRASILIANA;P 03;2015;São Paulo;BR-153/SP;183,800;Principal;CrescenteDecrescente;Lins;Sul/Norte;-21,710555;-49,808611;18/12/2008;06/2020;1830623,482236441
+TRANSBRASILIANA;P 04;2015;São Paulo;BR-153/SP;268,100;Principal;CrescenteDecrescente;Vera Cruz;Sul/Norte;-22,336311;-49,898833;24/12/2008;06/2020;1564799,6909697622
+RODOVIA DO AÇO;SAPUCAIA;2016;Rio de Janeiro;BR-393/RJ;125,700;Principal;CrescenteDecrescente;Sapucaia;Sul/Norte;-21,962326;-42,861675;30/04/2009;06/2020;2058606,1933121965
+RODOVIA DO AÇO;BARRA DA PIRAI;2016;Rio de Janeiro;BR-393/RJ;265,200;Principal;CrescenteDecrescente;Barra do Piraí;Sul/Norte;-22,485435;-43,919084;06/07/2009;06/2020;3132812,4702539393
+RODOVIA DO AÇO;PARAÍBA DO SUL;2016;Rio de Janeiro;BR-393/RJ;195,200;Principal;CrescenteDecrescente;Paraíba do Sul;Sul/Norte;-22,208911;-43,382139;05/03/2009;06/2020;2409723,836433864
+AUTOPISTA FERNÃO DIAS;3 (Cambuí);2007;Minas Gerais;BR-381/MG;900,900;Principal;CrescenteDecrescente;Cambuí;Sul/Norte;-22,628487;-46,077890;23/03/2009;06/2020;3312898,6606415017
+AUTOPISTA FERNÃO DIAS;4 (São Gonçalo);2007;Minas Gerais;BR-381/MG;805,200;Principal;CrescenteDecrescente;São Gonçalo do Sapucaí;Sul/Norte;-21,970441;-45,631188;18/02/2009;06/2020;3070863,8124451456
+AUTOPISTA FERNÃO DIAS;5 (Carmo da Cachoeira);2007;Minas Gerais;BR-381/MG;735,500;Principal;CrescenteDecrescente;Carmo da Cachoeira;Sul/Norte;-21,545700;-45,240203;10/03/2009;06/2020;2928873,435396479
+AUTOPISTA FERNÃO DIAS;6 (Santo Antônio do Amparo);2007;Minas Gerais;BR-381/MG;658,300;Principal;CrescenteDecrescente;Santo Antônio do Amparo;Sul/Norte;-21,000367;-44,966967;10/03/2009;06/2020;2400440,8197853067
+AUTOPISTA FERNÃO DIAS;7 (Carmópolis de Minas);2007;Minas Gerais;BR-381/MG;597,700;Principal;CrescenteDecrescente;Carmópolis de Minas;Sul/Norte;-20,591486;-44,701506;10/03/2009;06/2020;2387189,099583607
+AUTOPISTA FERNÃO DIAS;8 (Itatiaiuçu);2007;Minas Gerais;BR-381/MG;545,900;Principal;CrescenteDecrescente;Rio Manso;Sul/Norte;-20,268346;-44,423711;10/03/2009;06/2020;2762069,4346144293
+AUTOPISTA FERNÃO DIAS;1 Sul (Mairiporã);2007;São Paulo;BR-381/SP;66,600;Principal;Crescente;Mairiporã;Sul;-23,330558;-46,578337;09/09/2010;06/2020;5614185,694381503
+AUTOPISTA FERNÃO DIAS;2 (Vargem);2007;São Paulo;BR-381/SP;7,300;Principal;CrescenteDecrescente;Vargem;Sul/Norte;-22,908685;-46,424877;09/01/2009;06/2020;4221736,21315203
+AUTOPISTA FERNÃO DIAS;1 Norte - Defasada (Mairiporã);2007;São Paulo;BR-381/SP;67,800;Principal;Decrescente;Mairiporã;Norte;-23,341210;-46,573664;08/03/2014;06/2020;0
+AUTOPISTA FERNÃO DIAS;1 Norte (Mairiporã);2007;São Paulo;BR-381/SP;65,700;Principal;Decrescente;Mairiporã;Norte;-23,322298;-46,581097;09/09/2010;06/2020;0
+VIA BAHIA;Praça 3;2003;Bahia;BR-116/BA;482,138;Principal;CrescenteDecrescente;Rafael Jambeiro;Sul/Norte;-12,531931;-39,415020;07/12/2010;06/2020;4248850,421116728
+VIA BAHIA;Praça 4;2003;Bahia;BR-116/BA;566,405;Principal;CrescenteDecrescente;Brejões;Sul/Norte;-13,008714;-39,957042;07/12/2010;06/2020;2796038,436585454
+VIA BAHIA;Praça 5;2003;Bahia;BR-116/BA;698,410;Principal;CrescenteDecrescente;Jequié;Sul/Norte;-14,055969;-40,204450;07/12/2010;06/2020;2633076,705819629
+VIA BAHIA;Praça 6;2003;Bahia;BR-116/BA;773,819;Principal;CrescenteDecrescente;Planalto;Sul/Norte;-14,646178;-40,455782;07/12/2010;06/2020;2733791,5072105355
+VIA BAHIA;Praça 7;2003;Bahia;BR-116/BA;873,499;Principal;CrescenteDecrescente;Vitória da Conquista;Sul/Norte;-15,232323;-41,100949;07/12/2010;06/2020;2634564,0508791776
+VIA BAHIA;Praça 1;2003;Bahia;BR-324/BA;597,728;Principal;CrescenteDecrescente;Simões Filho;Leste/Oeste;-12,751276;-38,431540;31/07/2011;06/2020;5780257,821615392
+VIA BAHIA;Praça 2;2003;Bahia;BR-324/BA;551,094;Principal;CrescenteDecrescente;Amélia Rodrigues;Leste/Oeste;-12,451647;-38,708421;28/12/2010;06/2020;5489983,456773083
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P1 - Pedro Canário;2015;Espírito Santo;BR-101/ES;0,800;Principal;CrescenteDecrescente;Pedro Canário;Sul/Norte;-18,184740;-39,922082;18/05/2014;06/2020;847610,8872532492
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P2 - São Mateus;2015;Espírito Santo;BR-101/ES;85,800;Principal;CrescenteDecrescente;São Mateus;Sul/Norte;-18,863973;-39,938669;18/05/2014;06/2020;1250077,941521806
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P3 - Aracruz;2015;Espírito Santo;BR-101/ES;171,700;Principal;CrescenteDecrescente;Aracruz;Sul/Norte;-19,563047;-40,177583;18/05/2014;06/2020;1702062,884890127
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P4 - Serra;2015;Espírito Santo;BR-101/ES;242,000;Principal;CrescenteDecrescente;Serra;Sul/Norte;-20,032325;-40,396639;18/05/2014;06/2020;2822602,425712675
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P5 - Guarapari;2015;Espírito Santo;BR-101/ES;320,800;Principal;CrescenteDecrescente;Guarapari;Sul/Norte;-20,519115;-40,478567;18/05/2014;06/2020;2462601,1452436736
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P6 - Itapemirim;2015;Espírito Santo;BR-101/ES;398,900;Principal;CrescenteDecrescente;Itapemirim;Sul/Norte;-20,878550;-40,966050;18/05/2014;06/2020;2323358,587057387
+ECO101 CONCESSIONARIA DE RODOVIAS S/A;P7 - Mimoso do Sul;2015;Espírito Santo;BR-101/ES;452,000;Principal;CrescenteDecrescente;Mimoso do Sul;Sul/Norte;-21,158566;-41,280833;18/05/2014;06/2020;1782658,488321084
+ECO050;IPAMERI;2017;Goiás;BR-050/GO;143,985;Principal;CrescenteDecrescente;Ipameri;Sul/Norte;-17,121987;-47,721537;17/05/2015;06/2020;1728761,2085328524
+ECO050;CAMPO ALEGRE;2017;Goiás;BR-050/GO;226,000;Principal;CrescenteDecrescente;Campo Alegre de Goiás;Sul/Norte;-17,771615;-47,749429;16/04/2015;06/2020;1590811,7252031069
+ECO050;ARAGUARI I;2017;Minas Gerais;BR-050/MG;13,730;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,537594;-48,045546;12/04/2015;06/2020;2518056,822105346
+ECO050;ARAGUARI II;2017;Minas Gerais;BR-050/MG;51,500;Principal;CrescenteDecrescente;Araguari;Sul/Norte;-18,749143;-48,234378;14/04/2015;06/2020;3803773,1524329656
+ECO050;DELTA;2017;Minas Gerais;BR-050/MG;198,060;Principal;CrescenteDecrescente;Delta;Sul/Norte;-19,914722;-47,829868;18/04/2015;06/2020;4710678,720862865
+ECO050;UBERABA;2017;Minas Gerais;BR-050/MG;104,900;Principal;CrescenteDecrescente;Uberaba;Sul/Norte;-19,180063;-48,157641;12/04/2015;06/2020;4710678,720862865
+CONCEBRA;P1 ALEXÂNIA;2017;Goiás;BR-060/GO;43,100;Principal;CrescenteDecrescente;Alexânia;Sul/Norte;-16,115707;-48,589240;27/07/2015;06/2020;3025210,128080323
+CONCEBRA;P2 GOIANÁPOLIS;2017;Goiás;BR-060/GO;107,900;Principal;CrescenteDecrescente;Goianápolis;Sul/Norte;-16,438631;-49,019137;27/07/2015;06/2020;5595544,718479076
+CONCEBRA;P3 PROF JAMIL;2017;Goiás;BR-153/GO;553,100;Principal;CrescenteDecrescente;Piracanjuba;Sul/Norte;-17,163180;-49,212582;27/07/2015;06/2020;3582739,5642530727
+CONCEBRA;P4 ITUMBIARA;2017;Goiás;BR-153/GO;685,800;Principal;CrescenteDecrescente;Itumbiara;Sul/Norte;-18,268544;-49,245811;27/07/2015;06/2020;3396449,304876001
+CONCEBRA;P5 PRATA;2017;Minas Gerais;BR-153/MG;127,900;Principal;CrescenteDecrescente;Prata;Sul/Norte;-19,471586;-48,871046;27/07/2015;06/2020;3200828,2541082497
+CONCEBRA;P6 FRONTEIRA;2017;Minas Gerais;BR-153/MG;227,900;Principal;CrescenteDecrescente;Fronteira;Sul/Norte;-20,142521;-49,110488;27/07/2015;06/2020;1750993,8698573767
+CONCEBRA;P7 FLORESTAL;2017;Minas Gerais;BR-262/MG;389,400;Principal;CrescenteDecrescente;Florestal;Oeste/Leste;-19,909615;-44,506725;27/07/2015;06/2020;2861169,2156550675
+CONCEBRA;P8 LUZ;2017;Minas Gerais;BR-262/MG;512,850;Principal;CrescenteDecrescente;Luz;Oeste/Leste;-19,788259;-45,584630;27/07/2015;06/2020;1883830,1328702571
+CONCEBRA;P9 CAMPOS ALTOS;2017;Minas Gerais;BR-262/MG;600,800;Principal;CrescenteDecrescente;Campos Altos;Oeste/Leste;-19,647341;-46,240088;27/07/2015;06/2020;1934673,0703735529
+CONCEBRA;P10 PERDIZES;2017;Minas Gerais;BR-262/MG;736,900;Principal;CrescenteDecrescente;Perdizes;Oeste/Leste;-19,617614;-47,346547;27/07/2015;06/2020;1306569,0789881172
+CONCEBRA;P11 CAMPO FLORIDO;2017;Minas Gerais;BR-262/MG;863,500;Principal;CrescenteDecrescente;Conceição das Alagoas;Oeste/Leste;-19,776951;-48,458219;27/07/2015;06/2020;518502,4624589069
+CRO;P1;2016;Mato Grosso;BR-163/MT;33,600;Principal;CrescenteDecrescente;Itiquira;Norte/Sul;-17,219391;-54,758685;06/09/2015;06/2020;1888568,3849037664
+CRO;P7;2016;Mato Grosso;BR-163/MT;586,900;Principal;CrescenteDecrescente;Nova Mutum;Norte/Sul;-13,919520;-56,093419;06/09/2015;06/2020;4267717,09778417
+CRO;P8;2016;Mato Grosso;BR-163/MT;664,450;Principal;CrescenteDecrescente;Lucas do Rio Verde;Norte/Sul;-13,265990;-56,022777;06/09/2015;06/2020;3638599,54305335
+CRO;P9;2016;Mato Grosso;BR-163/MT;766,700;Principal;CrescenteDecrescente;Sorriso;Norte/Sul;-12,441635;-55,653798;06/09/2015;06/2020;3443962,4183283336
+CRO;P2;2016;Mato Grosso;BR-364/MT;214,400;Principal;CrescenteDecrescente;Rondonópolis;Norte/Sul;-16,393565;-54,714281;06/09/2015;06/2020;6042963,115559014
+CRO;P3;2016;Mato Grosso;BR-364/MT;316,550;Principal;CrescenteDecrescente;Campo Verde;Norte/Sul;-15,812126;-55,309470;06/09/2015;06/2020;5416931,437368482
+CRO;P4;2016;Mato Grosso;BR-364/MT;383,100;Principal;CrescenteDecrescente;Cuiabá;Norte/Sul;-15,702041;-55,829527;06/09/2015;06/2020;6347313,660468388
+CRO;P5;2016;Mato Grosso;BR-364/MT;479,100;Principal;CrescenteDecrescente;Jangada;Norte/Sul;-15,349875;-56,415628;26/09/2015;06/2020;4862541,296968957
+CRO;P6;2016;Mato Grosso;BR-364/MT;579,100;Principal;CrescenteDecrescente;Nobres;Norte/Sul;-14,599728;-56,240858;06/09/2015;06/2020;5337794,945565535
+MSVIA;P1-Mundo Novo;2014;Mato Grosso do Sul;BR-163/MS;28,200;Principal;CrescenteDecrescente;Mundo Novo;Norte/Sul;-23,865169;-54,329788;14/09/2015;06/2020;2404872,4649974676
+MSVIA;P2-Itaquirai;2014;Mato Grosso do Sul;BR-163/MS;113,000;Principal;CrescenteDecrescente;Itaquiraí;Norte/Sul;-23,167432;-54,198970;14/09/2015;06/2020;2709673,6699153166
+MSVIA;P3-Caarapó;2014;Mato Grosso do Sul;BR-163/MS;228,200;Principal;CrescenteDecrescente;Caarapó;Norte/Sul;-22,476042;-54,860799;14/09/2015;06/2020;2345536,44887002
+MSVIA;P4-Rio Brilhante;2014;Mato Grosso do Sul;BR-163/MS;313,500;Principal;CrescenteDecrescente;Rio Brilhante;Norte/Sul;-21,865146;-54,528504;14/09/2015;06/2020;1961180,565302457
+MSVIA;P5-Campo Grande;2014;Mato Grosso do Sul;BR-163/MS;431,800;Principal;CrescenteDecrescente;Campo Grande;Norte/Sul;-20,882783;-54,504644;14/09/2015;06/2020;2989451,5162716596
+MSVIA;P6-Jaraguari;2014;Mato Grosso do Sul;BR-163/MS;535,200;Principal;CrescenteDecrescente;Bandeirantes;Norte/Sul;-20,040780;-54,412778;14/09/2015;06/2020;3635346,5408323263
+MSVIA;P7-São Gabriel;2014;Mato Grosso do Sul;BR-163/MS;605,000;Principal;CrescenteDecrescente;São Gabriel do Oeste;Norte/Sul;-19,473376;-54,496991;14/09/2015;06/2020;3019579,8643748574
+MSVIA;P8-Rio Verde;2014;Mato Grosso do Sul;BR-163/MS;704,300;Principal;CrescenteDecrescente;Rio Verde de Mato Grosso;Norte/Sul;-18,722782;-54,814951;14/09/2015;06/2020;2328657,3140893127
+MSVIA;P9-Sonora;2014;Mato Grosso do Sul;BR-163/MS;819,200;Principal;CrescenteDecrescente;Sonora;Norte/Sul;-17,766671;-54,750815;14/09/2015;06/2020;2508843,315346586
+ECOPONTE;NITEROÍ-1;2017;Rio de Janeiro;BR-101/RJ;322,230;Principal;Decrescente;Rio de Janeiro;Norte;-22,877944;-43,115734;01/06/2015;06/2020;7659971,76
+VIA 040;P1 - Cristalina;2010;Goiás;BR-040/GO;93,275;Principal;CrescenteDecrescente;Cristalina;Sul/Norte;-16,738900;-47,617540;30/07/2015;06/2020;2113112,4230326274
+VIA 040;P10 - Lafaiete;2010;Minas Gerais;BR-040/MG;642,850;Principal;CrescenteDecrescente;Conselheiro Lafaiete;Sul/Norte;-20,767020;-43,806680;23/08/2015;06/2020;2694562,6056518457
+VIA 040;P11 - Barbacena;2010;Minas Gerais;BR-040/MG;714,100;Principal;CrescenteDecrescente;Barbacena;Sul/Norte;-21,262710;-43,662240;23/08/2015;06/2020;2941268,0005922876
+VIA 040;P2 - Paracatu;2010;Minas Gerais;BR-040/MG;17,650;Principal;CrescenteDecrescente;Paracatu;Sul/Norte;-17,098310;-47,026240;30/07/2015;06/2020;1532356,7371736357
+VIA 040;P3 - Lagoa Grande;2010;Minas Gerais;BR-040/MG;91,295;Principal;CrescenteDecrescente;Lagoa Grande;Sul/Norte;-17,505980;-46,564650;30/07/2015;06/2020;1632979,244876861
+VIA 040;P4 - João Pinheiro;2010;Minas Gerais;BR-040/MG;172,985;Principal;CrescenteDecrescente;João Pinheiro;Sul/Norte;-17,945770;-46,034250;30/07/2015;06/2020;1548324,8611568874
+VIA 040;P5 - São Gonçalo do Abaeté;2010;Minas Gerais;BR-040/MG;254,100;Principal;CrescenteDecrescente;São Gonçalo do Abaeté;Sul/Norte;-18,132650;-45,408170;30/07/2015;06/2020;1302979,3014759757
+VIA 040;P6 - Felixlândia;2010;Minas Gerais;BR-040/MG;328,705;Principal;CrescenteDecrescente;Felixlândia;Sul/Norte;-18,565400;-45,021160;30/07/2015;06/2020;1598339,2308972578
+VIA 040;P7 - Curvelo;2010;Minas Gerais;BR-040/MG;405,353;Principal;CrescenteDecrescente;Curvelo;Sul/Norte;-19,079300;-44,654950;30/07/2015;06/2020;1685074,4541469212
+VIA 040;P8 - Capim Branco;2010;Minas Gerais;BR-040/MG;487,341;Principal;CrescenteDecrescente;Capim Branco;Sul/Norte;-19,601210;-44,221960;30/07/2015;06/2020;6721620,625089346
+VIA 040;P9 - Itabirito;2010;Minas Gerais;BR-040/MG;577,200;Principal;CrescenteDecrescente;Itabirito;Sul/Norte;-20,272880;-43,951120;23/08/2015;06/2020;5809735,775906351
+VIA SUL;P2-Santo Antônio da Patrulha;2017;Rio Grande do Sul;BR-290/RS;19,400;Principal;CrescenteDecrescente;Santo Antônio da Patrulha;Oeste/Leste;-29,885897;-50,448964;15/02/2019;06/2020;4977453,299360977
+VIA SUL;P3-Gravatai;2017;Rio Grande do Sul;BR-290/RS;77,400;Principal;CrescenteDecrescente;Gravataí;Oeste/Leste;-29,955029;-51,031282;15/02/2019;06/2020;3028300,4952171734
+VIA SUL;P1-Três Cachoeiras;2019;Rio Grande do Sul;BR-101/RS;35,200;Principal;CrescenteDecrescente;Três Cachoeiras;Norte;-29,520461;-49,996581;05/06/2020;06/2020;7510547,127529348
+VIA SUL;P4-Montenegro;2019;Rio Grande do Sul;BR-386/RS;426,000;Principal;CrescenteDecrescente;Montenegro;Norte;-29,819760;-51,360405;05/06/2020;06/2020;5575520,15624378
+VIA SUL;P5-Paverama;2019;Rio Grande do Sul;BR-386/RS;375,800;Principal;CrescenteDecrescente;Paverama;Norte;-29,626833;-51,775773;05/06/2020;06/2020;3491748,957254861
+VIA SUL;P6-Fontoura Xavier;2019;Rio Grande do Sul;BR-386/RS;262,700;Principal;CrescenteDecrescente;Fontoura Xavier;Norte;-28,905316;-52,396797;05/06/2020;06/2020;2314338,9365450605
+VIA SUL;P7-Victor Graeff;2019;Rio Grande do Sul;BR-386/RS;204,400;Principal;CrescenteDecrescente;Victor Graeff;Norte;-28,502039;-52,644709;05/06/2020;06/2020;1117425,7078487957
