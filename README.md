@@ -14,3 +14,9 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucan-marques-5a94294b/)
 
+# DASHBOARD OROVA DE INFORMÁTICA
+
+<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
+<p align="center">
+<img alt="Banner de agredecimento" src="./Dashboard.png" />
+</p>
