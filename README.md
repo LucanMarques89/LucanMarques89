@@ -20,3 +20,11 @@ Estou entrando nesse mundo da tecnologia voltada a logística agora, não tenho 
 <p align="center">
 <img alt="Banner de agredecimento" src="./Dashboard.png" />
 </p>
+
+# Desenvolvimento de API
+
+## Compartilhamento de códigos
+
+## Resolução do Problena de Pesquisa Operacional através de programanação linear com Python:
+
+Link do Google Colab: https://colab.research.google.com/drive/1e4U5xTcWrqJ_54rkaYLoSe7dO_n42qSt#scrollTo=2T8Fm6g3d9W5
